@@ -1,0 +1,2 @@
+FLASK_APP=blueprints
+FLASK_ENV=development
